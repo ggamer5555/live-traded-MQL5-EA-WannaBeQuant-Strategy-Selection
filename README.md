@@ -4,6 +4,8 @@
 
 **WannaBeQuant Strategy Selection EA** is a multi-strategy automated trading Expert Advisor built for **MetaTrader 5 / MQL5**.
 
+Original MT5 product: https://www.mql5.com/en/market/product/137847?source=Site+Profile+Seller
+
 This EA has been live-traded for 1+ year by the author and is designed as an example of a structured, production-style MQL5 trading system. It combines multiple configurable crypto and stock strategies, database-backed trade tracking, equity monitoring, drawdown protection, and timer-based execution.
 
 > **Risk Disclaimer**  
